@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16sp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="左上"
+        android:textSize="36sp"
+        android:background="@android:color/holo_orange_dark"
+        android:textColor="@android:color/background_dark"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="右上"
+        android:textSize="36sp"
+        android:background="@android:color/holo_orange_dark"
+        android:textColor="@android:color/background_dark"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="上中"
+        android:textSize="36sp"
+        android:background="@android:color/holo_orange_dark"
+        android:textColor="@android:color/background_dark"
+        android:layout_centerHorizontal="true"
+
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="左中"
+    android:textSize="36sp"
+    android:background="@android:color/holo_orange_dark"
+    android:textColor="@android:color/background_dark"
+    android:layout_centerVertical="true"
+
+
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="中央"
+    android:textSize="36sp"
+    android:background="@android:color/holo_orange_dark"
+    android:textColor="@android:color/background_dark"
+    android:layout_centerInParent="true"
+
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="右中"
+    android:textSize="36sp"
+    android:background="@android:color/holo_orange_dark"
+    android:textColor="@android:color/background_dark"
+    android:layout_centerVertical="true"
+    android:layout_alignParentRight="true"
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="左下"
+        android:textSize="36sp"
+        android:background="@android:color/holo_orange_dark"
+        android:textColor="@android:color/background_dark"
+
+        android:layout_alignParentBottom="true"
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="中下"
+        android:textSize="36sp"
+        android:background="@android:color/holo_orange_dark"
+        android:textColor="@android:color/background_dark"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        />
+
+
+
+</RelativeLayout>
