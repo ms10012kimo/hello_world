@@ -12,9 +12,7 @@
         android:background="@android:color/holo_orange_dark"
         android:textColor="@android:color/background_dark"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-
-
+        android:layout_alignParentTop="true"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -24,7 +22,7 @@
         android:background="@android:color/holo_orange_dark"
         android:textColor="@android:color/background_dark"
         android:layout_alignParentTop="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentRight="true"/>
 
 
     <TextView
@@ -34,7 +32,7 @@
         android:textSize="36sp"
         android:background="@android:color/holo_orange_dark"
         android:textColor="@android:color/background_dark"
-        android:layout_centerHorizontal="true"
+        android:layout_centerHorizontal="true"/>
 
 
     <TextView
@@ -44,18 +42,18 @@
     android:textSize="36sp"
     android:background="@android:color/holo_orange_dark"
     android:textColor="@android:color/background_dark"
-    android:layout_centerVertical="true"
+    android:layout_centerVertical="true"/>
 
 
 
     <TextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="中央"
+    android:text="test"
     android:textSize="36sp"
     android:background="@android:color/holo_orange_dark"
     android:textColor="@android:color/background_dark"
-    android:layout_centerInParent="true"
+    android:layout_centerInParent="true"/>
 
 
     <TextView
@@ -66,7 +64,7 @@
     android:background="@android:color/holo_orange_dark"
     android:textColor="@android:color/background_dark"
     android:layout_centerVertical="true"
-    android:layout_alignParentRight="true"
+    android:layout_alignParentRight="true"/>
 
     <TextView
         android:layout_width="wrap_content"
@@ -76,7 +74,7 @@
         android:background="@android:color/holo_orange_dark"
         android:textColor="@android:color/background_dark"
 
-        android:layout_alignParentBottom="true"
+        android:layout_alignParentBottom="true"/>
 
 
     <TextView
@@ -88,6 +86,7 @@
         android:textColor="@android:color/background_dark"
         android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
+
         />
 
 
